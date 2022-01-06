@@ -1,1 +1,1 @@
-# First-kaggle-project
+# Kaggle Titanic Survived Prediction Project
